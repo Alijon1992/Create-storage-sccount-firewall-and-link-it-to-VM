@@ -1,3 +1,3 @@
 # First demo
 
-Some descriptions
+Some descriptions in my very first demo lesson
