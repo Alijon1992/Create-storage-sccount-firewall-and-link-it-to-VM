@@ -4,8 +4,10 @@
 1) Provision the lab environment:
 
 -Create an Azure subscription if you haven't already.
--Create a resource group to contain all the resources for this lab.
-![Alt text](https://github.com/Alijon1992/Create-storage-sccount-firewall-and-link-it-to-VM/blob/main/1-creating%20resource%20group.png)
+##-Create a resource group to contain all the resources for this lab.
+
+<img width="745" alt="1-creating resource group" src="https://user-images.githubusercontent.com/121365233/222029552-e78926a9-e212-41ac-840d-0978fc70750f.png">
+
 
 -Create a virtual network with a subnet for the storage account and VM.
 -Create a VM in the virtual network.
