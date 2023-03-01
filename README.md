@@ -27,9 +27,12 @@
 
 -Click the +Add button to create a new storage account.
 
-***-Enter a unique name for the storage account and select the subscription and resource group you created in previously.
+-Enter a unique name for the storage account and select the subscription and resource group you created in previously.
+
 -Select the desired location and performance tier for the storage account.
+
 -Leave the advanced options as their defaults and click the Review + Create button.
+
 -Review the settings and click the Create button to create the storage account.
 
 <img width="775" alt="5-creating storage account" src="https://user-images.githubusercontent.com/121365233/222033279-ff2c0e38-c070-4303-9c01-822f2284d471.png">
@@ -37,12 +40,17 @@
 3) Manage blob storage:
 
 -Navigate to the newly created storage account in the Azure portal.
+
 -Click on the Blobs service in the left-hand menu to manage blob storage.
+
+![Screenshot 2023-02-28 at 10 51 33 PM](https://user-images.githubusercontent.com/121365233/222040725-acfb7679-91e5-435a-b924-dae6ff696f4b.png)
+
 -Upload files or create new containers to store blobs.
 
 <img width="1420" alt="6-creating containers" src="https://user-images.githubusercontent.com/121365233/222033520-b2bccf35-0a43-4267-a55b-63cb54e135de.png">
 
 -Upload your files to created containers
+
 --Note: Files can be uploaded from linked devices(VM or Local) whenever needed.
 
 <img width="1433" alt="7-uploading file to container" src="https://user-images.githubusercontent.com/121365233/222033700-cf3a08be-b590-4a67-a8bd-b13e4424979b.png">
@@ -52,7 +60,9 @@
 4) Manage authentication and authorization for Azure Storage:
 
 -Navigate to the Access keys section of the storage account in the Azure portal.
+
 -Retrieve the storage account's connection string and access keys.
+
 -Use these credentials to authenticate and authorize access to the storage account from your applications or services.
 
 <img width="1426" alt="8-managing access to containers via token" src="https://user-images.githubusercontent.com/121365233/222036593-bc1e3c5a-21dc-484d-a359-b7795124d0a5.png">
@@ -60,8 +70,11 @@
 5)Create and configure an Azure Files share:
 
 -Navigate to the Files service in the left-hand menu of the storage account in the Azure portal.
+
 -Click the +File share button to create a new file share.
+
 -Enter a unique name for the file share and configure the desired properties, such as quota and share level access policies.
+
 -Click the Create button to create the file share.
 
 <img width="1419" alt="9-create configuring azure file share" src="https://user-images.githubusercontent.com/121365233/222036758-fb5e1c2b-34e6-4409-9a45-72f85e494d29.png">
@@ -75,6 +88,7 @@
 <img width="1417" alt="11-configuring firewall and Vnet settings" src="https://user-images.githubusercontent.com/121365233/222037364-bf502050-f0c7-4fec-837f-7f20e9ec5d66.png">
 
 -Add firewall rules to allow access from specific IP addresses or ranges.
+
 -Configure virtual network rules to allow access from specific virtual networks or subnets.
 
 <img width="715" alt="10-Enabling specific VM and subnet to connect " src="https://user-images.githubusercontent.com/121365233/222036947-ae9611b6-64be-482f-b480-02c4ce167c85.png">
@@ -87,6 +101,7 @@
 
 
 ***Additional
+
 -Add Multi-Factor Authentication for more secure access!
 
 <img width="1112" alt="12-Setting up Multi-Factor Authentication" src="https://user-images.githubusercontent.com/121365233/222039222-542f3f03-81c9-446e-a1ce-644526e97499.png">
