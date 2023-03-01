@@ -4,9 +4,11 @@
 1) Provision the lab environment:
 
 -Create an Azure subscription if you haven't already.
+
 -Create a resource group to contain all the resources for this lab.
 
-<img width="862" alt="13-Manage network access for Azure Storage" src="https://user-images.githubusercontent.com/121365233/222032597-da7ab043-39f9-448b-81c9-82c8f383cc7f.png">
+
+<img width="745" alt="1-creating resource group" src="https://user-images.githubusercontent.com/121365233/222039407-2ca05772-98e7-4155-be74-1a97866e017b.png">
 
 
 -Create a virtual network with a subnet for the storage account and VM.
