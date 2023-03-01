@@ -9,7 +9,10 @@
 <img width="745" alt="1-creating resource group" src="https://user-images.githubusercontent.com/121365233/222029552-e78926a9-e212-41ac-840d-0978fc70750f.png">
 
 
--Create a virtual network with a subnet for the storage account and VM.
+-##Create a virtual network with a subnet for the storage account and VM.
+
+<img width="424" alt="2-Creating Vnet   snet" src="https://user-images.githubusercontent.com/121365233/222029553-a8230f33-1f33-4e26-afc7-c135df50449b.png">
+
 -Create a VM in the virtual network.
 -Create and configure Azure Storage accounts:
 
